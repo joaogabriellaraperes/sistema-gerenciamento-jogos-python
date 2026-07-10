@@ -40,6 +40,7 @@ Execute o programa:
 python projeto.py
 
 Conceitos Praticados
+
 Funções
 Listas e Dicionários
 Manipulação de Arquivos
