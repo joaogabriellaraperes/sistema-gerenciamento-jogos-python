@@ -6,22 +6,21 @@ Este projeto foi desenvolvido durante o curso de Análise e Desenvolvimento de S
 
 ## Funcionalidades
 
-* Cadastro de jogos
-* Listagem de jogos cadastrados
-* Atualização de status dos jogos
-* Remoção de jogos da biblioteca
-* Registro de histórico de alterações
-* Persistência de dados em arquivo JSON
-* Tratamento de exceções
+- Cadastro de jogos
+- Listagem de jogos cadastrados
+- Atualização de status dos jogos
+- Remoção de jogos da biblioteca
+- Registro de histórico de alterações
+- Persistência de dados em arquivo JSON
+- Tratamento de exceções
 
 ## Tecnologias Utilizadas
 
-* Python
-* JSON
-* Estruturas de Dados
-* Programação Orientada a Objetos (conceitos aplicados)
-* CRUD
-* Tratamento de Exceções
+- Python
+- JSON
+- Estruturas de Dados
+- CRUD
+- Tratamento de Exceções
 
 ## Estrutura do Projeto
 
@@ -55,19 +54,18 @@ python projeto.py
 
 ## Conceitos Praticados
 
-* Funções
-* Listas e Dicionários
-* Manipulação de Arquivos
-* Serialização JSON
-* Estruturas Condicionais
-* Estruturas de Repetição
-* Modularização de Código
-* Operações CRUD
+- Funções
+- Listas e Dicionários
+- Manipulação de Arquivos
+- Serialização JSON
+- Estruturas Condicionais
+- Estruturas de Repetição
+- Operações CRUD
 
 ## Autor
 
 João Gabriel Lara
 
-LinkedIn: linkedin.com/in/joao-gabriel-lara
+LinkedIn: https://www.linkedin.com/in/joao-gabriel-lara/
 
-GitHub: github.com/joaogabriellaraperes
+GitHub: https://github.com/joaogabriellaraperes
