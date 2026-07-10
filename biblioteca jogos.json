@@ -1,0 +1,12 @@
+[
+    {
+        "nome jogo": "Resident Evil 9",
+        "concluido": true,
+        "historico": []
+    },
+    {
+        "nome jogo": "Life is Strange 2",
+        "concluido": false,
+        "historico": []
+    }
+]
